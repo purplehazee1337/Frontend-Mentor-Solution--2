@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-Left previews are my project.
+Left preview is my project.
 
 Project:
 ![](./comprassion/comprasion1.jpg)
